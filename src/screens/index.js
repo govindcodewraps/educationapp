@@ -1,0 +1,11 @@
+// export {default as SelectType} from './SelectType';
+export {default as Login} from './Login';
+export {default as Registration} from './Registration';
+export {default as ForgetPassword} from './ForgetPassword';
+export {default as CheckEmail} from './CheckEmail';
+export {default as PrivacyPolicy} from './hamburger/PrivacyPolicy';
+export {default as ContactUs} from './hamburger/ContactUs';
+export {default as FAQ} from './hamburger/FAQ';
+export {default as TermCondition} from './hamburger/TermCondition';
+export {default as AboutUs} from './hamburger/AboutUs';
+export {default as OnboardingScreens} from './onboarding/OnboardingScreens';
